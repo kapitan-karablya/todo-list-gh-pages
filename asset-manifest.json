@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/todo-list-gh-pages/static/css/main.e9a5f6f3.chunk.css",
+    "main.js": "/todo-list-gh-pages/static/js/main.60bfb0d9.chunk.js",
+    "main.js.map": "/todo-list-gh-pages/static/js/main.60bfb0d9.chunk.js.map",
+    "runtime-main.js": "/todo-list-gh-pages/static/js/runtime-main.9838949f.js",
+    "runtime-main.js.map": "/todo-list-gh-pages/static/js/runtime-main.9838949f.js.map",
+    "static/js/2.8ce6bdd6.chunk.js": "/todo-list-gh-pages/static/js/2.8ce6bdd6.chunk.js",
+    "static/js/2.8ce6bdd6.chunk.js.map": "/todo-list-gh-pages/static/js/2.8ce6bdd6.chunk.js.map",
+    "index.html": "/todo-list-gh-pages/index.html",
+    "static/css/main.e9a5f6f3.chunk.css.map": "/todo-list-gh-pages/static/css/main.e9a5f6f3.chunk.css.map",
+    "static/js/2.8ce6bdd6.chunk.js.LICENSE.txt": "/todo-list-gh-pages/static/js/2.8ce6bdd6.chunk.js.LICENSE.txt",
+    "static/media/checkmark.fc60ce80.svg": "/todo-list-gh-pages/static/media/checkmark.fc60ce80.svg",
+    "static/media/close.9b2005da.svg": "/todo-list-gh-pages/static/media/close.9b2005da.svg",
+    "static/media/plus.060844a9.svg": "/todo-list-gh-pages/static/media/plus.060844a9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9838949f.js",
+    "static/js/2.8ce6bdd6.chunk.js",
+    "static/css/main.e9a5f6f3.chunk.css",
+    "static/js/main.60bfb0d9.chunk.js"
+  ]
+}
